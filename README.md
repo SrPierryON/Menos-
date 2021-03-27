@@ -1,2 +1,4 @@
-# Menos-
-1 bot simples :)
+# Menos™ BOT
+➖Menos™ É  1 bot para discord que estou
+Criado e etc....
+
